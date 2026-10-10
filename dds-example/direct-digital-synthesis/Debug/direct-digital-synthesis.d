@@ -29,7 +29,8 @@ direct-digital-synthesis.o: ../direct-digital-synthesis.c \
  C:/ti/simplelink_lowpower_f3_sdk_9_14_01_16/source/ti/devices/cc23x0r5/inc/hw_lgpt.h \
  C:/ti/simplelink_lowpower_f3_sdk_9_14_01_16/source/ti/devices/cc23x0r5/inc/hw_ints.h \
  C:/ti/simplelink_lowpower_f3_sdk_9_14_01_16/source/ti/devices/cc23x0r5/inc/hw_gpio.h \
- syscfg/ti_drivers_config.h
+ syscfg/ti_drivers_config.h \
+ ../sine_lut.h
 
 C:/ti/simplelink_lowpower_f3_sdk_9_14_01_16/source/ti/posix/gcc/unistd.h:
 
@@ -88,3 +89,5 @@ C:/ti/simplelink_lowpower_f3_sdk_9_14_01_16/source/ti/devices/cc23x0r5/inc/hw_in
 C:/ti/simplelink_lowpower_f3_sdk_9_14_01_16/source/ti/devices/cc23x0r5/inc/hw_gpio.h:
 
 syscfg/ti_drivers_config.h:
+
+../sine_lut.h:

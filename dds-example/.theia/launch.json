@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "direct-digital-synthesis",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "direct-digital-synthesis",
+                "resourceId": "/direct-digital-synthesis"
+            }
+        }
+    ]
+}
